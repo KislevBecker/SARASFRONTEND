@@ -1,0 +1,15 @@
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\bin\Debug\netstandard2.1\SARASWEB.Frontend.PD.deps.json
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\bin\Debug\netstandard2.1\SARASWEB.Frontend.PD.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\bin\Debug\netstandard2.1\SARASWEB.Frontend.PD.pdb
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\bin\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\bin\Debug\netstandard2.1\SARASWEB.Frontend.Transversal.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\bin\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.pdb
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\bin\Debug\netstandard2.1\SARASWEB.Frontend.Transversal.pdb
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\obj\Debug\netstandard2.1\SARASWEB.Frontend.PD.csproj.AssemblyReference.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\obj\Debug\netstandard2.1\SARASWEB.Frontend.PD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\obj\Debug\netstandard2.1\SARASWEB.Frontend.PD.AssemblyInfoInputs.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\obj\Debug\netstandard2.1\SARASWEB.Frontend.PD.AssemblyInfo.cs
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\obj\Debug\netstandard2.1\SARASWEB.Frontend.PD.csproj.CoreCompileInputs.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\obj\Debug\netstandard2.1\SARASWEB.Frontend.PD.csproj.CopyComplete
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\obj\Debug\netstandard2.1\SARASWEB.Frontend.PD.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.PD\obj\Debug\netstandard2.1\SARASWEB.Frontend.PD.pdb

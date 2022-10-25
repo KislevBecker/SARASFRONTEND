@@ -1,0 +1,68 @@
+﻿@inject IHelper helper
+<div class="tab-pane @Wizard[1]" id="basictab2">
+<div class="row">
+    <center>
+        <button type="button" class="btn btn-warning btn-circle btn-xl naranja-button"><i class="mdi mdi-alert"></i> </button>
+    </center>
+    <br />
+    <h3 class="box-title text-center">¿Confirmas tu transacción?</h3>
+    <br />
+    @*<h4 class="box-title text-center">Monto a transferir: @PropiaFrmDTO.moneda @(helper.FormateadorDecimales(PropiaFrmDTO.monto.ToString()))</h4>*@
+    <h4 class="box-title text-center">Monto a transferir: L.50.23</h4>
+    <hr />
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-4" style="float:left">
+                <center>
+                    <div class="white-box">
+                        <h3 class="box">Cuenta a debitar:</h3>
+                        <ul class="list-inline two-part">
+                            <li><i class="ti-wallet text-danger"></i></li>
+
+                        </ul>
+                        @*<strong>@PropiaFrmDTO.cuentaOrigen</strong>*@
+                        <strong>784-569</strong>
+                    </div>
+                </center>
+            </div>
+
+            <div class="col-md-4">
+                <center>
+                    <div class="white-box">
+                        <br /><br />
+                        <ul class="list-inline two-part">
+                            <li><button type="button" class="btn btn-warning btn-circle btn-lg naranja-button mdi mdi-arrow-right"></button></li>
+
+                        </ul>
+                        <br />
+                        <h4 class="box">Motivo:</h4>
+                        @*<p>@PropiaFrmDTO.motivo</p>*@
+                        <p>pruebas</p>
+                    </div>
+
+                </center>
+            </div>
+
+            <div class="col-md-4" style="float:right">
+                <center>
+                    <div class="white-box">
+                        <h3 class="box">Cuenta a acreditar:</h3>
+                        <ul class="list-inline two-part">
+                            <li><i class="ti-wallet text-success"></i></li>
+
+                        </ul>
+                        @*<strong>@PropiaFrmDTO.cuentaDestino</strong>*@
+                        <strong>125-456</strong>
+                    </div>
+                </center>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+@code
+{ 
+    [Parameter] public string[] Wizard { get; set; }
+    [Parameter] public PropiaFrmDTO PropiaFrmDTO { get; set; }
+}

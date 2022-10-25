@@ -1,0 +1,197 @@
+﻿<div class="h-100" id="leftside-menu-container" data-simplebar>
+    <ul class="side-nav">
+        <li class="side-nav-item side-nav-item @_inicioActive">
+            <NavLink href="inicio" class="side-nav-link" @onclick="() => ActivarLink(1)">
+                <i class="fas fa-home"></i>
+                <span> Inicio </span>
+            </NavLink>
+        </li>
+        <li class="side-nav-item @_configuracionCP">
+            <NavLink data-bs-toggle="collapse" href="#sidebarTransacciones" aria-expanded="false" aria-controls="sidebarTransacciones" class="side-nav-link">
+                <i class="fas fa-user-cog"></i>
+                <span> Configuración de categorías y nivel de riesgo </span>
+                <span class="menu-arrow"></span>
+            </NavLink>
+            <div class="collapse" id="sidebarTransacciones">
+                <ul class="side-nav-second-level">
+                    <li class="@_configuracionPuntaje">
+                        <NavLink href="configuracion-puntaje" @onclick="() => ActivarLink(2)">Administrar puntajes</NavLink>
+                    </li>
+                    <li class="@_configuracionCategoriaSocial">
+                        <NavLink href="configuracion-categoria-social" @onclick="() => ActivarLink(2)">Administrar categoría social</NavLink>
+                    </li>
+                    <li class="@_configuracionCategoriaAmbiental">
+                        <NavLink href="configuracion-categoria-ambiental" @onclick="() => ActivarLink(2)">Administrar categoría ambiental</NavLink>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li class="side-nav-item @_configuracionAD">
+            <NavLink data-bs-toggle="collapse" href="#sidebarPrestamos" aria-expanded="false" aria-controls="sidebarPrestamos" class="side-nav-link">
+                <i class="fas fa-building"></i>
+                <span> Configuración de actividades y destinos económicos </span>
+                <span class="menu-arrow"></span>
+            </NavLink>
+            <div class="collapse" id="sidebarPrestamos">
+                <ul class="side-nav-second-level">
+                    <li class="@_configuracionActividadES">
+                        <NavLink href="listado-actividad-social" @onclick="() => ActivarLink(3)">Actividad económica (categoría social)</NavLink>
+                    </li>
+                    <li class="@_configuracionActividadAM">
+                        <NavLink href="listado-actividad-ambiental" @onclick="() => ActivarLink(3)">Actividad económica (categoría ambiental)</NavLink>
+                    </li>
+                    <li class="@_configuracionDestinoES">
+                        <NavLink href="listado-destino-economico-social" @onclick="() => ActivarLink(3)">Destino económico (categoría social)</NavLink>
+                    </li>
+                    <li class="@_configuracionDestinoES">
+                        <NavLink href="listado-destino-economico-ambiental" @onclick="() => ActivarLink(3)">Destino económico(categoría ambiental)</NavLink>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li class="side-nav-item @_configuracionFUD">
+            <NavLink data-bs-toggle="collapse" href="#sidebarTarjetas1" aria-expanded="false" aria-controls="tarjetasCredito" class="side-nav-link">
+                <i class="fas fa-credit-card"></i>
+                <span> Administración variables económicas del FUD </span>
+                <span class="menu-arrow"></span>
+            </NavLink>
+            <div class="collapse" id="sidebarTarjetas1">
+                <ul class="side-nav-second-level">
+                     <li class="@_configuracionNivelEducativo">
+                        <NavLink href="configuracion-nivel-educativo" @onclick="() => ActivarLink(4)">Nivel educativo</NavLink>
+                    </li>
+                    <li class="@_configuracionRangoIngresos">
+                        <NavLink href="configuracion-rango-ingresos" @onclick="() => ActivarLink(4)">Rango de ingresos</NavLink>
+                    </li>
+                    <li class="@_configuracionRegion">
+                        <NavLink href="configuracion-region" @onclick="() => ActivarLink(4)">Región</NavLink>
+                    </li>
+                    <li class="@_configuracionServiciosPublicos">
+                        <NavLink href="configuracion-servicios-publicos" @onclick="() => ActivarLink(4)">Servicios públicos</NavLink>
+                    </li>
+                    <li class="@_configuracionTipoMaterialVivienda">
+                        <NavLink href="configuracion-material-vivienda" @onclick="() => ActivarLink(4)">Material vivienda</NavLink>
+                    </li>
+                    <li class="@_configuracionTipoPropiedad">
+                        <NavLink href="configuracion-tipo-vivienda" @onclick="() => ActivarLink(4)">Tipo vivienda</NavLink>
+                    </li>                   
+                    <li class="@_configuracionZona">
+                        <NavLink href="configuracion-zona" @onclick="() => ActivarLink(4)">Zona</NavLink>
+                    </li>
+                   
+                </ul>
+            </div>
+        </li>
+        <li class="side-nav-item side-nav-item @_reportes" @onclick="() => ActivarLink(5)">
+            <NavLink data-bs-toggle="collapse" href="#sidebarTarjetas" aria-expanded="false" aria-controls="tarjetasCredito" class="side-nav-link">
+                <i class="fas fa-clipboard-list"></i>
+                <span> Reportes socio-ambientales </span>
+                <span class="menu-arrow"></span>
+            </NavLink>
+            <div class="collapse" id="sidebarTarjetas">
+                <ul class="side-nav-second-level">
+                    <li class="@_configuracionReporteS">
+                        <NavLink href="reporte-social-por-cliente" @onclick="() => ActivarLink(5)">Matriz Social</NavLink>
+                    </li>
+                    <li class="@_configuracionReporteA">
+                        <NavLink href="matriz-de-riesgo-ambiental-social" @onclick="() => ActivarLink(5)">Matriz ambiental</NavLink>
+                    </li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+    <div class="clearfix"></div>
+</div>
+
+@code
+{
+    private string _inicioActive = "";
+    private string _configuracionCP = ""; 
+    private string _configuracionCategoriaSocial = "";
+    private string _configuracionCategoriaAmbiental = "";
+    private string _configuracionPuntaje = "";
+    private string _configuracionRangoIngresos = "";
+    private string _configuracionNivelEducativo = "";
+    private string _configuracionTipoPropiedad = "";
+    private string _configuracionTipoMaterialVivienda = "";
+    private string _configuracionServiciosPublicos = "";
+    private string _configuracionZona = "";
+    private string _configuracionRegion = "";
+    private string _configuracionActividadES = "";
+    private string _configuracionActividadAM = "";
+    private string _configuracionDestinoES = "";
+    private string _configuracionDestinoAM = "";
+    private string _reportes = "";
+    private string _configuracionReporteS = "";
+    private string _configuracionReporteA = "";
+    private string _configuracionAD = "";
+    private string _configuracionFUD = "";
+
+    protected override void OnInitialized()
+    {
+        _inicioActive = "menuitem-active";
+    }
+
+    private void ActivarLink(int link)
+    {
+        DesactivarTodos();
+
+        if (link is 1)
+            _inicioActive = "menuitem-active";
+
+        if (link is 2)
+            _configuracionCP = "menuitem-active";
+        _configuracionCategoriaSocial = "menuitem-active";
+        _configuracionCategoriaAmbiental = "menuitem-active";
+        _configuracionPuntaje = "menuitem-active";
+
+        if (link is 3)
+            _configuracionAD = "menuitem-active";
+        _configuracionActividadES = "menuitem-active";
+        _configuracionActividadAM = "menuitem-active";
+        _configuracionDestinoES = "menuitem-active";
+        _configuracionDestinoAM = "menuitem-active";
+
+        if (link is 4)
+            _configuracionFUD = "menuitem-active";
+        _configuracionRangoIngresos = "menuitem-active";
+        _configuracionNivelEducativo = "menuitem-active";
+        _configuracionTipoPropiedad = "menuitem-active";
+        _configuracionTipoMaterialVivienda = "menuitem-active";
+        _configuracionServiciosPublicos = "menuitem-active";
+        _configuracionZona = "menuitem-active";
+        _configuracionRegion = "menuitem-active";
+
+        if (link is 5)
+            _reportes = "menuitem-active";
+        _configuracionReporteS = "menuitem-active";
+        _configuracionReporteA = "menuitem-active";
+
+
+    }
+
+    private void DesactivarTodos()
+    {
+        _inicioActive = "";
+        _configuracionCategoriaSocial = "";
+        _configuracionCategoriaAmbiental = "";
+        _configuracionPuntaje = "";
+        _configuracionAD = "";
+        _configuracionActividadES = "";
+        _configuracionActividadAM = "";
+        _configuracionDestinoES = "";
+        _configuracionDestinoAM = "";
+        _configuracionFUD = "";
+        _configuracionFUD = "";
+        _configuracionRangoIngresos = "";
+        _configuracionNivelEducativo = "";
+        _configuracionTipoPropiedad = "";
+        _configuracionTipoMaterialVivienda = "";
+        _configuracionServiciosPublicos = "";
+        _configuracionZona = "";
+        _configuracionRegion = "";
+        _configuracionReporteS = "";
+        _configuracionReporteA = "";
+        _configuracionCP = "";
+    }
+}

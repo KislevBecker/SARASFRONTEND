@@ -1,0 +1,18 @@
+﻿@inherits LayoutComponentBase
+
+<div class="wrapper">
+    <div class="leftside-menu">
+        <LogoComponent />
+        <SideMenuComponent />
+
+    </div>
+    <div class="content-page">
+        <div class="content">
+            <HeadMenuComponent />
+            <div class="container-fluid">
+                @Body
+            </div>
+        </div>
+        <FooterComponent />
+    </div>
+</div>

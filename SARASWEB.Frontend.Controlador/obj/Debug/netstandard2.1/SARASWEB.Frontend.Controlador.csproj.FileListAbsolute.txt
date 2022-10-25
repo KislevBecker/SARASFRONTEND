@@ -1,0 +1,10 @@
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\bin\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.deps.json
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\bin\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\bin\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.pdb
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\obj\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.csproj.AssemblyReference.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\obj\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\obj\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.AssemblyInfoInputs.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\obj\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.AssemblyInfo.cs
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\obj\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.csproj.CoreCompileInputs.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\obj\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Controlador\obj\Debug\netstandard2.1\SARASWEB.Frontend.Controlador.pdb

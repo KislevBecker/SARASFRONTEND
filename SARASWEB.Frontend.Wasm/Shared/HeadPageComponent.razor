@@ -1,0 +1,16 @@
+﻿<div class="page-title-right">
+    <ol class="breadcrumb m-0">
+        @if (Categoria is not null or "")
+        {
+            <li class="breadcrumb-item active popular-color-secondary">@Categoria</li>
+        }
+        <li class="breadcrumb-item active popular-text">@Pagina</li>
+    </ol>
+</div>
+<h4 class="page-title">@Titulo</h4>
+
+@code {
+    [Parameter] public string Titulo { get; set; }
+    [Parameter] public string Categoria { get; set; }
+    [Parameter] public string Pagina { get; set; }
+}

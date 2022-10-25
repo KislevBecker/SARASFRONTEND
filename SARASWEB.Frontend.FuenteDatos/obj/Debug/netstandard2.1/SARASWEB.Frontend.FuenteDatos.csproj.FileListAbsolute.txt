@@ -1,0 +1,13 @@
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\bin\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.deps.json
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\bin\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\bin\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.pdb
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\bin\Debug\netstandard2.1\SARASWEB.Frontend.Transversal.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\bin\Debug\netstandard2.1\SARASWEB.Frontend.Transversal.pdb
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\obj\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.csproj.AssemblyReference.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\obj\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\obj\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.AssemblyInfoInputs.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\obj\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.AssemblyInfo.cs
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\obj\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.csproj.CoreCompileInputs.cache
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\obj\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.csproj.CopyComplete
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\obj\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.dll
+C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.FuenteDatos\obj\Debug\netstandard2.1\SARASWEB.Frontend.FuenteDatos.pdb

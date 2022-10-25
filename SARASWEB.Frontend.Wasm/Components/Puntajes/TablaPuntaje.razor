@@ -1,0 +1,72 @@
+﻿@inject HttpClient Http
+<div class="row">
+    <div class="col-md-12">
+        <div class="card text-white azul font-weight-bold shadow-custom">
+            <div class="card-body">
+                Puntaje y nivel de riesgo
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-border-radius shadow-custom">
+                    <div class="card-body">
+                        @if (forecasts == null)
+                        {
+                            <p><em>Cargando...</em></p>
+                        }
+                        else
+                        {
+                            <div class="table-responsive">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>N°</th>
+                                            <th>Nivel de riesgo</th>
+                                            <th>Puntaje</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var forecast in forecasts)
+                                        {
+                                            <tr class="text-capitalize">
+                                                <th>@forecast.Id</th>
+                                                <td>@forecast.NivelRiesgo</td>
+                                                <td>@forecast.Puntaje</td>
+                                                <td><ModalPuntaje /></td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    //[Parameter] public string[] CategoriasGrid { get; set; }
+    private WeatherForecast[]? forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/CatA.json");
+    }
+
+    public class WeatherForecast
+    {
+        public int Id { get; set; }
+
+        public string? NivelRiesgo { get; set; }
+
+        public string? Puntaje { get; set; }
+
+        //public int Puntaje { get; set; }
+    }
+
+}

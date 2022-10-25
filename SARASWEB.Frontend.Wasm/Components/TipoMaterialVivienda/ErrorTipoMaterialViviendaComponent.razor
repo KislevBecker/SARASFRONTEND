@@ -1,0 +1,22 @@
+﻿<div class="tab-pane @Wizard[2]" id="basictab2">
+    <div class="row">
+        <center>
+            <button type="button" class="btn btn-danger btn-circle btn-xl"><i class="mdi mdi-close"></i> </button>
+        </center>
+        <br />
+        <h3 class="box-title text-center">La transacción no pudo completarse</h3>
+        <br />
+        @*<p class="text-center"><strong>Estado: </strong>@confirmarTransferenciaDTO.estado</p>*@
+        <p class="text-center"><strong>Estado: </strong>Esto es un texto de error para pruebas</p>
+    </div>
+</div>
+<br />
+<center>
+    <a class="btn btn-danger waves-effect waves-light m-r-10" href="Index">Ir a inicio</a>
+</center>
+
+@code 
+{
+    [Parameter] public string[] Wizard { get; set; }
+    [Parameter] public ConfirmarTransferenciaDTO confirmarTransferenciaDTO { get; set; }
+}

@@ -1,0 +1,17 @@
+﻿@if (MostrarBotonesWizard)
+{
+    <ul class="list-inline wizard mb-0">
+        <li class="previous list-inline-item">
+            <button type="button" class="btn btn-warning popular-button-secondary" @onclick="AtrasStep">Regresar</button>
+        </li>
+        <li class="next list-inline-item float-end">
+            <button type="submit" class="btn btn-warning popular-button-secondary" @onclick="Siguiente">Siguiente</button>
+        </li>
+    </ul>
+}
+
+@code{
+    [Parameter] public bool MostrarBotonesWizard { get; set; }
+    [Parameter] public EventCallback AtrasStep { get; set; }
+    [Parameter] public EventCallback Siguiente { get; set; }
+}

@@ -1,0 +1,163 @@
+﻿@inject HttpClient Http
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-white bg-danger font-weight-bold shadow-custom">
+            <div class="card-body">
+                Categoría A
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-border-radius shadow-custom">
+                    <div class="card-body">
+                        @if (forecasts == null)
+                        {
+                            <p><em>Cargando...</em></p>
+                        }
+                        else
+                        {
+                            <div class="table-responsive">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>Código</th>
+                                            <th>Actividad económica</th>
+                                            <th>Destino</th>
+                                            <th>Puntaje</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var forecast in forecasts)
+                                        {
+                                            <tr class="text-capitalize">
+                                                <th>@forecast.Id</th>
+                                                <td>@forecast.ActividadEconomica</td>
+                                                <td>@forecast.DestinoEconomico</td>
+                                                <td>@forecast.Puntaje</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-warning font-weight-bold shadow-custom">
+            <div class="card-body">
+                Categoría B
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-border-radius shadow-custom">
+                    <div class="card-body">
+                        @if (forecasts == null)
+                        {
+                            <p><em>Cargando...</em></p>
+                        }
+                        else
+                        {
+                            <div class="table-responsive">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Actividad económica</th>
+                                            <th>Destino</th>
+                                            <th>Puntaje</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var forecast in forecasts)
+                                        {
+                                            <tr>
+                                                <th>@forecast.Id</th>
+                                                <td>@forecast.ActividadEconomica</td>
+                                                <td>@forecast.DestinoEconomico</td>
+                                                <td>@forecast.Puntaje</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success font-weight-bold shadow-custom">
+            <div class="card-body">
+                Categoría C
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-border-radius shadow-custom">
+                    <div class="card-body">
+                        @if (forecasts == null)
+                        {
+                            <p><em>Cargando...</em></p>
+                        }
+                        else
+                        {
+                            <div class="table-responsive">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Actividad económica</th>
+                                            <th>Destino</th>
+                                            <th>Puntaje</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var forecast in forecasts)
+                                        {
+                                            <tr>
+                                                <th>@forecast.Id</th>
+                                                <td>@forecast.ActividadEconomica</td>
+                                                <td>@forecast.DestinoEconomico</td>
+                                                <td>@forecast.Puntaje</td>
+                                            </tr>
+                                        }
+                                    </tbody>
+                                </table>
+                            </div>
+
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    //[Parameter] public string[] CategoriasGrid { get; set; }
+    private WeatherForecast[]? forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/CatA.json");
+    }
+
+    public class WeatherForecast
+    {
+        public int Id { get; set; }
+
+        public string? ActividadEconomica { get; set; }
+
+        public string? DestinoEconomico { get; set; }
+
+        public int Puntaje { get; set; }
+    }
+
+}

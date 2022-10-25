@@ -1,0 +1,55 @@
+﻿@inject IHelper helper
+<div class="tab-pane @Wizard[2]" id="basictab2">
+    <div class="row">
+        <center style="background-color:#0083c6 !important;">
+            <img class="img-responsive" width="220" height="60" src="/images/Logo.png" style="background-color:#0083c6 !important">
+        </center>
+        <br />
+        <center style="margin-top:10px !important">
+            <button type="button" class="btn btn-circle verde-button" style="width:60px;height:60px;border-radius:50%"><i class="mdi mdi-check" style="color:#fff !important;"></i> </button>
+        </center>
+        <br />
+        <h3 class="box-title text-center">Su transacción se envió con éxito</h3>
+        <br />
+        <p class="text-center"><strong>Estado: </strong>@confirmarTransferenciaDTO.estado</p>
+        <br />
+        <p class="text-center"><strong>Fecha: </strong>  @DateTime.Now</p>
+        <br />
+        <p class="text-center"><strong>Número de referencia: </strong>@confirmarTransferenciaDTO.referencia</p>
+        <br />
+        <p class="text-center"><b>Monto enviado:</b> @confirmarTransferenciaDTO.moneda @(helper.FormateadorDecimales(confirmarTransferenciaDTO.monto.ToString()))</p>
+        <div class="col-md-12">
+            <div class="row">
+
+                <div class="col-md-4">
+                    <p class="text-center"><b>Cuenta debitada:</b></p>
+                    <p class="text-center"><b>@confirmarTransferenciaDTO.cuentaDebitada</b></p>
+
+                </div>
+
+                <div class="col-md-4">
+                    <center>
+                        <button type="button" class="btn btn-circle btn-lg verde-button" style="color: #fff !important; width: 60px; height: 60px; border-radius: 50%"><i class="mdi mdi-arrow-down"></i> </button>
+                    </center>
+                </div>
+
+                <div class="col-md-4">
+                    <p class="text-center"><b>Cuenta acreditada:</b></p>
+                    <p class="text-center"><b>@confirmarTransferenciaDTO.cuentaAcreditada</b></p>
+                </div>
+            </div>
+        </div>
+        <br />
+        <p class="text-center"><b>Motivo:</b></p>
+        <p class="text-center"><b>@confirmarTransferenciaDTO.motivo</b></p>
+    </div>
+    <hr />
+    <center>
+        <a href="index" type="button" class="btn waves-effect waves-light m-r-10 azul-button">Ir a inicio</a>
+    </center>
+</div>
+@code 
+{ 
+    [Parameter] public ConfirmarTransferenciaDTO confirmarTransferenciaDTO { get; set; }
+    [Parameter] public string[] Wizard { get; set; }
+}

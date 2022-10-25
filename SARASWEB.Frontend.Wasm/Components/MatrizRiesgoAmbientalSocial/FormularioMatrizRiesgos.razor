@@ -1,0 +1,122 @@
+﻿<div class="row">
+    <div class="col-md-12">
+        @*<div class="card card-border-radius">
+            <div class="card-body">*@
+                <h5>Selección de filtros</h5>
+                <div class="row mt-1">
+                    <div class="col-md-12">
+                        <form class="row g-3">
+                            <div class="col-md-4">
+                                <label for="validationDefault01" class="form-label">Tipo de crédito</label>
+                                <div class="input-group">
+                                   <span class="input-group-text naranja" style="top:0 !important; font-size: 17px" id="basic-addon1"><i class="fas fa-list text-white" ></i></span>
+                                    <select class="form-select" id="validationDefault01" required>
+                                    <option selected disabled value="">Choose...</option>
+                                    <option>...</option>
+                                </select>
+                            </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="validationDefault02" class="form-label">Agencia</label>
+                                <div class="input-group">
+                                   <span class="input-group-text naranja" style="top:0 !important; font-size: 17px" id="basic-addon1"><i class="fas fa-building text-white" ></i></span>
+                                    <select class="form-select" id="validationDefault02" required>
+                                    <option selected disabled value="">Choose...</option>
+                                    <option>...</option>
+                                </select>
+                            </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="validationDefaultUsername" class="form-label">Zona</label>
+                                <div class="input-group">
+                                   <span class="input-group-text naranja" style="top:0 !important; font-size: 17px" id="basic-addon1"><i class="fas fa-search-location text-white" ></i></span>
+                                    <select class="form-select" id="validationDefault03" required>
+                                        <option selected disabled value="">Choose...</option>
+                                        <option>...</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="validationDefaultUsername" class="form-label">Categoría de riesgo</label>
+                                <div class="input-group">
+                                   <span class="input-group-text naranja" style="top:0 !important; font-size: 17px" id="basic-addon1"><i class="fas fa-chart-bar text-white" ></i></span>
+                                    <select class="form-select" id="validationDefault03" required>
+                                        <option selected disabled value="">Choose...</option>
+                                        <option>...</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="validationDefaultUsername" class="form-label">Mes</label>
+                                <div class="input-group">
+                                   <span class="input-group-text naranja" style="top:0 !important; font-size: 17px" id="basic-addon1"><i class="fas fa-calendar-day text-white" ></i></span>
+                                    <select class="form-select" id="validationDefault03" required>
+                                        <option selected disabled value="">Choose...</option>
+                                        <option>...</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="validationDefaultUsername" class="form-label">Año</label>
+                                <div class="input-group">
+                                   <span class="input-group-text naranja" style="top:0 !important; font-size: 17px" id="basic-addon1"><i class="fas fa-calendar text-white" ></i></span>
+                                    <select class="form-select" id="validationDefault03" required>
+                                        <option selected disabled value="">Choose...</option>
+                                        <option>...</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn azul-button float-end" type="submit">Fijar filtros</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+           @* </div>
+        </div>*@
+    </div>  
+</div>
+
+
+@code {
+    List<string> customers = new List<string>() { "Todos", "Pedro", "Alejandra", "Elena" };
+    void DoStuffCust(ChangeEventArgs e)
+    {
+        SelectedString = e.Value.ToString();
+        Console.WriteLine("It is definitely: " + SelectedString);
+    }
+
+    List<string> templates = new List<string>() { "Todas", "A", "B", "C" };
+    string SelectedString = "A";
+
+    void DoStuff(ChangeEventArgs e)
+    {
+        SelectedString = e.Value.ToString();
+        Console.WriteLine("It is definitely: " + SelectedString);
+    }
+
+    List<string> creds = new List<string>() { "Todos", "Pyme", "Agro" };
+    string SelectedStringA = "A";
+
+    void DoStuffCred(ChangeEventArgs e)
+    {
+        SelectedString = e.Value.ToString();
+        Console.WriteLine("It is definitely: " + SelectedString);
+    }
+    List<string> agencies = new List<string>() { "Todas", "Agencia 1", "Agencia 2", "Agencia 3" };
+
+
+    void DoStuffAgency(ChangeEventArgs e)
+    {
+        SelectedString = e.Value.ToString();
+        Console.WriteLine("It is definitely: " + SelectedString);
+    }
+    List<string> zones = new List<string>() { "Todas", "Urbana", "Rural" };
+
+
+    void DoStuffZone(ChangeEventArgs e)
+    {
+        SelectedString = e.Value.ToString();
+        Console.WriteLine("It is definitely: " + SelectedString);
+    }
+}

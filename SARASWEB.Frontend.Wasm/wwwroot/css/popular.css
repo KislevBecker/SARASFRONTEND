@@ -1,0 +1,89 @@
+﻿.popular-button-primary {
+    background-color: #0083c6 !important;
+    border-color: #0083c6 !important;
+    color: white !important;
+}
+
+.popular-button-secondary {
+    background-color: #ff8c1c !important;
+    border-color: #ff8c1c !important;
+    color: white !important;
+}
+
+.popular-text {
+    color: #646464 !important;
+}
+
+.popular-color-secondary {
+    color: #ff8c1c !important;
+}
+
+.popular-color-error {
+    color: #990303 !important;
+}
+
+.popular-color-exito {
+    color: #499903 !important;
+}
+
+.disabled-li {
+    pointer-events: none;
+}
+div.validation-message {
+    color: darkred !important;
+}
+
+.rojo {
+    background-color: #f75b36 !important;
+}
+
+.naranja {
+    background-color: #ff8c1c !important;
+}
+
+.verde-button {
+    background-color: #22bb33 !important;
+    opacity: 1 !important;
+    color: white;
+}
+
+
+.azul {
+    background-color: #0083c6 !important;
+}
+
+.naranja-button {
+    background-color: #ff8c1c !important;
+    opacity: 1 !important;
+    color: white;
+}
+
+    .naranja-button:hover {
+        color: white !important;
+    }
+
+.azul-button {
+    background-color: #0083c6 !important;
+    opacity: 1 !important;
+    color: white;
+}
+
+    .azul-button:hover {
+        color: white !important;
+    }
+
+.disabled-li {
+    pointer-events: none;
+    color: white;
+}
+
+
+.accordion-button {
+    color: #ff8c1c !important;
+}
+
+    .accordion-button:not(.collapsed) {
+        color: #ff8c1c !important;
+        -webkit-box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+        box-shadow: inset 0 -1px 0 rgb(0 0 0 / 13%);
+    }

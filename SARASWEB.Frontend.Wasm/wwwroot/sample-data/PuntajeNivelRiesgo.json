@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "NivelRiesgo": "Bajo riesgo",
+    "Puntaje": 1
+  },
+  {
+    "id": 2,
+    "NivelRiesgo": "Moderado riesgo ",
+    "Puntaje": 2
+  },
+  {
+    "id": 3,
+    "NivelRiesgo": "Alto riesgo ",
+    "Puntaje": 3
+  },
+  {
+    "id": 4,
+    "NivelRiesgo": "Muy alto riesgo ",
+    "Puntaje": 4
+  }
+]

@@ -1,0 +1,599 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = SARASWEB.Frontend.Wasm
+build_property.RootNamespace = SARASWEB.Frontend.Wasm
+build_property.ProjectDir = C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Wasm\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kbecker\Desktop\Proyectos\SARAS\SARASWEB.Frontend\SARASWEB.Frontend.Wasm
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicaSocial/EnviarActividadEconomicaSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxcRW52aWFyQWN0aXZpZGFkRWNvbm9taWNhU29jaWFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicaSocial/ErrorActividadEconomicaSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxcRXJyb3JBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicaSocial/FrmActividadEconomicaSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxcRnJtQWN0aXZpZGFkRWNvbm9taWNhU29jaWFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicaSocial/MensajeActividadEconomicaSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxcTWVuc2FqZUFjdGl2aWRhZEVjb25vbWljYVNvY2lhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicaSocial/TablaActividadEconomicaSocial.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxcVGFibGFBY3RpdmlkYWRFY29ub21pY2FTb2NpYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicaSocial/WizardBotonesActividadEconomicaSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxcV2l6YXJkQm90b25lc0FjdGl2aWRhZEVjb25vbWljYVNvY2lhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicaSocial/WizardHeadActividadEconomicaSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxcV2l6YXJkSGVhZEFjdGl2aWRhZEVjb25vbWljYVNvY2lhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicaSocial/WizardPestañasActividadEconomicaSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY2FTb2NpYWxcV2l6YXJkUGVzdGHDsWFzQWN0aXZpZGFkRWNvbm9taWNhU29jaWFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicoAmbiental/EnviarActividadEconomicaAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY29BbWJpZW50YWxcRW52aWFyQWN0aXZpZGFkRWNvbm9taWNhQW1iaWVudGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicoAmbiental/ErrorActividadEconomicaAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY29BbWJpZW50YWxcRXJyb3JBY3RpdmlkYWRFY29ub21pY2FBbWJpZW50YWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicoAmbiental/FrmActividadEconomicaAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY29BbWJpZW50YWxcRnJtQWN0aXZpZGFkRWNvbm9taWNhQW1iaWVudGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicoAmbiental/MensajeActividadEconomicaAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY29BbWJpZW50YWxcTWVuc2FqZUFjdGl2aWRhZEVjb25vbWljYUFtYmllbnRhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicoAmbiental/TablaActividadEconomicaAmbiental.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY29BbWJpZW50YWxcVGFibGFBY3RpdmlkYWRFY29ub21pY2FBbWJpZW50YWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicoAmbiental/WizardBotonesActividadEconomicaAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY29BbWJpZW50YWxcV2l6YXJkQm90b25lc0FjdGl2aWRhZEVjb25vbWljYUFtYmllbnRhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicoAmbiental/WizardHeadActividadEconomicaAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY29BbWJpZW50YWxcV2l6YXJkSGVhZEFjdGl2aWRhZEVjb25vbWljYUFtYmllbnRhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ActividadEconomicoAmbiental/WizardPestañasActividadEconomicaAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBY3RpdmlkYWRFY29ub21pY29BbWJpZW50YWxcV2l6YXJkUGVzdGHDsWFzQWN0aXZpZGFkRWNvbm9taWNhQW1iaWVudGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoAmbiental/EnviarDestinoEconomicoAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsXEVudmlhckRlc3Rpbm9FY29ub21pY29BbWJpZW50YWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoAmbiental/ErrorDestinoEconomicoAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsXEVycm9yRGVzdGlub0Vjb25vbWljb0FtYmllbnRhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoAmbiental/FrmDestinoEconomicoAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsXEZybURlc3Rpbm9FY29ub21pY29BbWJpZW50YWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoAmbiental/MensajeDestinoEconomicoAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsXE1lbnNhamVEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoAmbiental/TablaDestinoEconomicoAmbiental.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsXFRhYmxhRGVzdGlub0Vjb25vbWljb0FtYmllbnRhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoAmbiental/WizardBotonesDestinoEconomicoAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsXFdpemFyZEJvdG9uZXNEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoAmbiental/WizardHeadDestinoEconomicoAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsXFdpemFyZEhlYWREZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoAmbiental/WizardPestañasDestinoEconomicoAmbientalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsXFdpemFyZFBlc3Rhw7Fhc0Rlc3Rpbm9FY29ub21pY29BbWJpZW50YWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoSocial/EnviarDestinoEconomicoSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvU29jaWFsXEVudmlhckRlc3Rpbm9FY29ub21pY29Tb2NpYWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoSocial/ErrorDestinoEconomicoSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvU29jaWFsXEVycm9yRGVzdGlub0Vjb25vbWljb1NvY2lhbENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoSocial/FrmDestinoEconomicoSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvU29jaWFsXEZybURlc3Rpbm9FY29ub21pY29Tb2NpYWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoSocial/MensajeDestinoEconomicoSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvU29jaWFsXE1lbnNhamVEZXN0aW5vRWNvbm9taWNvU29jaWFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoSocial/TablaDestinoEconomicoSocial.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvU29jaWFsXFRhYmxhRGVzdGlub0Vjb25vbWljb1NvY2lhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoSocial/WizardBotonesDestinoEconomicoSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvU29jaWFsXFdpemFyZEJvdG9uZXNEZXN0aW5vRWNvbm9taWNvU29jaWFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoSocial/WizardHeadDestinoEconomicoSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvU29jaWFsXFdpemFyZEhlYWREZXN0aW5vRWNvbm9taWNvU29jaWFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/DestinoEconomicoSocial/WizardPestañasDestinoEconomicoSocialComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXN0aW5vRWNvbm9taWNvU29jaWFsXFdpemFyZFBlc3Rhw7Fhc0Rlc3Rpbm9FY29ub21pY29Tb2NpYWxDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/MatrizRiesgoAmbientalSocial/FormularioMatrizRiesgos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNYXRyaXpSaWVzZ29BbWJpZW50YWxTb2NpYWxcRm9ybXVsYXJpb01hdHJpelJpZXNnb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/MatrizRiesgoAmbientalSocial/TablaMatriz.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNYXRyaXpSaWVzZ29BbWJpZW50YWxTb2NpYWxcVGFibGFNYXRyaXoucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/EnviarNivelEducativoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xFbnZpYXJOaXZlbEVkdWNhdGl2b0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/ErrorNivelEducativoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xFcnJvck5pdmVsRWR1Y2F0aXZvQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/FrmNivelEducativoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xGcm1OaXZlbEVkdWNhdGl2b0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/MensajeNivelEducativoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xNZW5zYWplTml2ZWxFZHVjYXRpdm9Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/TablaNivelEducativo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xUYWJsYU5pdmVsRWR1Y2F0aXZvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/WizardBotonesNivelEducativoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xXaXphcmRCb3RvbmVzTml2ZWxFZHVjYXRpdm9Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/WizardHeadNivelEducativoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xXaXphcmRIZWFkTml2ZWxFZHVjYXRpdm9Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/WizardNivelEducativoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xXaXphcmROaXZlbEVkdWNhdGl2b0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/NivelEducativo/WizardPestañasNivelEducativoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOaXZlbEVkdWNhdGl2b1xXaXphcmRQZXN0YcOxYXNOaXZlbEVkdWNhdGl2b0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Puntajes/EnviarPuntajeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdW50YWplc1xFbnZpYXJQdW50YWplQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Puntajes/ErrorPuntajeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdW50YWplc1xFcnJvclB1bnRhamVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Puntajes/FrmPuntajeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdW50YWplc1xGcm1QdW50YWplQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Puntajes/MensajePuntajeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdW50YWplc1xNZW5zYWplUHVudGFqZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Puntajes/TablaPuntaje.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdW50YWplc1xUYWJsYVB1bnRhamUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Puntajes/WizardBotonesPuntajeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdW50YWplc1xXaXphcmRCb3RvbmVzUHVudGFqZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Puntajes/WizardHeadPuntajeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdW50YWplc1xXaXphcmRIZWFkUHVudGFqZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Puntajes/WizardPestañasPuntajeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdW50YWplc1xXaXphcmRQZXN0YcOxYXNQdW50YWplQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/RangoIngresoFUD/EnviarRangoIngresoFUDComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYW5nb0luZ3Jlc29GVURcRW52aWFyUmFuZ29JbmdyZXNvRlVEQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/RangoIngresoFUD/ErrorRangoIngresoFUDComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYW5nb0luZ3Jlc29GVURcRXJyb3JSYW5nb0luZ3Jlc29GVURDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/RangoIngresoFUD/FrmRangoIngresoFUDComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYW5nb0luZ3Jlc29GVURcRnJtUmFuZ29JbmdyZXNvRlVEQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/RangoIngresoFUD/MensajeRangoIngresoFUDComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYW5nb0luZ3Jlc29GVURcTWVuc2FqZVJhbmdvSW5ncmVzb0ZVRENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/RangoIngresoFUD/TablaRangoIngresoFUD.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYW5nb0luZ3Jlc29GVURcVGFibGFSYW5nb0luZ3Jlc29GVUQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/RangoIngresoFUD/WizardBotonesRangoIngresoFUDComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYW5nb0luZ3Jlc29GVURcV2l6YXJkQm90b25lc1JhbmdvSW5ncmVzb0ZVRENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/RangoIngresoFUD/WizardHeadRangoIngresoFUDComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYW5nb0luZ3Jlc29GVURcV2l6YXJkSGVhZFJhbmdvSW5ncmVzb0ZVRENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/RangoIngresoFUD/WizardPestañasRangoIngresoFUDComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYW5nb0luZ3Jlc29GVURcV2l6YXJkUGVzdGHDsWFzUmFuZ29JbmdyZXNvRlVEQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Region/EnviarRegionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWdpb25cRW52aWFyUmVnaW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Region/ErrorRegionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWdpb25cRXJyb3JSZWdpb25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Region/FrmRegionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWdpb25cRnJtUmVnaW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Region/MensajeRegionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWdpb25cTWVuc2FqZVJlZ2lvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Region/TablaRegion.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWdpb25cVGFibGFSZWdpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Region/WizardBotonesRegionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWdpb25cV2l6YXJkQm90b25lc1JlZ2lvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Region/WizardHeadRegionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWdpb25cV2l6YXJkSGVhZFJlZ2lvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Region/WizardPestañasRegionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWdpb25cV2l6YXJkUGVzdGHDsWFzUmVnaW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ReportesXCliente/FormularioFiltrosCliente.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZXBvcnRlc1hDbGllbnRlXEZvcm11bGFyaW9GaWx0cm9zQ2xpZW50ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ReportesXCliente/TablaReporte.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZXBvcnRlc1hDbGllbnRlXFRhYmxhUmVwb3J0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/EnviarServiciosPublicosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xFbnZpYXJTZXJ2aWNpb3NQdWJsaWNvc0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/ErrorServiciosPublicosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xFcnJvclNlcnZpY2lvc1B1YmxpY29zQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/FrmServiciosPublicosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xGcm1TZXJ2aWNpb3NQdWJsaWNvc0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/MensajeServiciosPublicosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xNZW5zYWplU2VydmljaW9zUHVibGljb3NDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/TablaServiciosPublicos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xUYWJsYVNlcnZpY2lvc1B1YmxpY29zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/WizardBotonesServiciosPublicosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xXaXphcmRCb3RvbmVzU2VydmljaW9zUHVibGljb3NDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/WizardHeadServiciosPublicosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xXaXphcmRIZWFkU2VydmljaW9zUHVibGljb3NDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/WizardPestañasServiciosPublicosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xXaXphcmRQZXN0YcOxYXNTZXJ2aWNpb3NQdWJsaWNvc0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/ServiciosPublicos/WizardServiciosPublicosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNpb3NQdWJsaWNvc1xXaXphcmRTZXJ2aWNpb3NQdWJsaWNvc0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoMaterialVivienda/EnviarTipoMaterialViviendaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvTWF0ZXJpYWxWaXZpZW5kYVxFbnZpYXJUaXBvTWF0ZXJpYWxWaXZpZW5kYUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoMaterialVivienda/ErrorTipoMaterialViviendaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvTWF0ZXJpYWxWaXZpZW5kYVxFcnJvclRpcG9NYXRlcmlhbFZpdmllbmRhQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoMaterialVivienda/FrmTipoMaterialViviendaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvTWF0ZXJpYWxWaXZpZW5kYVxGcm1UaXBvTWF0ZXJpYWxWaXZpZW5kYUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoMaterialVivienda/MensajeTipoMaterialViviendaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvTWF0ZXJpYWxWaXZpZW5kYVxNZW5zYWplVGlwb01hdGVyaWFsVml2aWVuZGFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoMaterialVivienda/TablaTipoMaterialVivienda.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvTWF0ZXJpYWxWaXZpZW5kYVxUYWJsYVRpcG9NYXRlcmlhbFZpdmllbmRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoMaterialVivienda/WizardBotonesTipoMaterialViviendaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvTWF0ZXJpYWxWaXZpZW5kYVxXaXphcmRCb3RvbmVzVGlwb01hdGVyaWFsVml2aWVuZGFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoMaterialVivienda/WizardHeadTipoMaterialViviendaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvTWF0ZXJpYWxWaXZpZW5kYVxXaXphcmRIZWFkVGlwb01hdGVyaWFsVml2aWVuZGFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoMaterialVivienda/WizardPestañasTipoMaterialViviendaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvTWF0ZXJpYWxWaXZpZW5kYVxXaXphcmRQZXN0YcOxYXNUaXBvTWF0ZXJpYWxWaXZpZW5kYUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoPropiedad/EnviarTipoPropiedadComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvUHJvcGllZGFkXEVudmlhclRpcG9Qcm9waWVkYWRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoPropiedad/ErrorTipoPropiedadComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvUHJvcGllZGFkXEVycm9yVGlwb1Byb3BpZWRhZENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoPropiedad/FrmTipoPropiedadComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvUHJvcGllZGFkXEZybVRpcG9Qcm9waWVkYWRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoPropiedad/MensajeTipoPropiedadComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvUHJvcGllZGFkXE1lbnNhamVUaXBvUHJvcGllZGFkQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoPropiedad/TablaTipoPropiedad.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvUHJvcGllZGFkXFRhYmxhVGlwb1Byb3BpZWRhZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoPropiedad/WizardBotonesTipoPropiedadComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvUHJvcGllZGFkXFdpemFyZEJvdG9uZXNUaXBvUHJvcGllZGFkQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoPropiedad/WizardHeadTipoPropiedadComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvUHJvcGllZGFkXFdpemFyZEhlYWRUaXBvUHJvcGllZGFkQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TipoPropiedad/WizardPestañasTipoPropiedadComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUaXBvUHJvcGllZGFkXFdpemFyZFBlc3Rhw7Fhc1RpcG9Qcm9waWVkYWRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaPropia/EnviarTransferenciaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhUHJvcGlhXEVudmlhclRyYW5zZmVyZW5jaWFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaPropia/ErrorTransferenciaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhUHJvcGlhXEVycm9yVHJhbnNmZXJlbmNpYUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaPropia/FrmTransferenciaPropiaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhUHJvcGlhXEZybVRyYW5zZmVyZW5jaWFQcm9waWFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaPropia/MensajeConfirmacionComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhUHJvcGlhXE1lbnNhamVDb25maXJtYWNpb25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaPropia/TablaCategoriaSocial.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhUHJvcGlhXFRhYmxhQ2F0ZWdvcmlhU29jaWFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaPropia/WizardBotonesTransferenciaPropiaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhUHJvcGlhXFdpemFyZEJvdG9uZXNUcmFuc2ZlcmVuY2lhUHJvcGlhQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaPropia/WizardHeadTransferenciaPropiaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhUHJvcGlhXFdpemFyZEhlYWRUcmFuc2ZlcmVuY2lhUHJvcGlhQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaPropia/WizardPestañasTransferenciaPropiaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhUHJvcGlhXFdpemFyZFBlc3Rhw7Fhc1RyYW5zZmVyZW5jaWFQcm9waWFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaTercero/FrmTransferenciaTercerosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhVGVyY2Vyb1xGcm1UcmFuc2ZlcmVuY2lhVGVyY2Vyb3NDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaTercero/WizardBotonesTransferenciaTercerosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhVGVyY2Vyb1xXaXphcmRCb3RvbmVzVHJhbnNmZXJlbmNpYVRlcmNlcm9zQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaTercero/WizardHeadTransferenciaTercerosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhVGVyY2Vyb1xXaXphcmRIZWFkVHJhbnNmZXJlbmNpYVRlcmNlcm9zQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/TransferenciaTercero/WizardPestañasTransferenciaTercerosComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUcmFuc2ZlcmVuY2lhVGVyY2Vyb1xXaXphcmRQZXN0YcOxYXNUcmFuc2ZlcmVuY2lhVGVyY2Vyb3NDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Zona/EnviarZonaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xab25hXEVudmlhclpvbmFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Zona/ErrorZonaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xab25hXEVycm9yWm9uYUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Zona/FrmZonaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xab25hXEZybVpvbmFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Zona/MensajeZonaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xab25hXE1lbnNhamVab25hQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Zona/TablaZona.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xab25hXFRhYmxhWm9uYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Zona/WizardBotonesZonaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xab25hXFdpemFyZEJvdG9uZXNab25hQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Zona/WizardHeadZonaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xab25hXFdpemFyZEhlYWRab25hQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Components/Zona/WizardPestañasZonaComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xab25hXFdpemFyZFBlc3Rhw7Fhc1pvbmFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/ActividadEconomicaAmbiental/ActividadEconomicaAmbientalPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpZGFkRWNvbm9taWNhQW1iaWVudGFsXEFjdGl2aWRhZEVjb25vbWljYUFtYmllbnRhbFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/ActividadEconomicaSocial/ActividadEconomicaSocialPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpZGFkRWNvbm9taWNhU29jaWFsXEFjdGl2aWRhZEVjb25vbWljYVNvY2lhbFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/DestinoEconomicoAmbiental/DestinoEconomicoAmbientalPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGlub0Vjb25vbWljb0FtYmllbnRhbFxEZXN0aW5vRWNvbm9taWNvQW1iaWVudGFsUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/DestinoEconomicoSocial/DestinoEconomicoSocialPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVzdGlub0Vjb25vbWljb1NvY2lhbFxEZXN0aW5vRWNvbm9taWNvU29jaWFsUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/NivelEducativoFUD/NivelEducativoFUDPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTml2ZWxFZHVjYXRpdm9GVURcTml2ZWxFZHVjYXRpdm9GVURQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/Puntajes/PuntajesPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVudGFqZXNcUHVudGFqZXNQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/RangoIngresoFUD/RangoIngresoFUDPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ29JbmdyZXNvRlVEXFJhbmdvSW5ncmVzb0ZVRFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/Region/RegionPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaW9uXFJlZ2lvblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/Reportes/ReporteMatrizRiesgos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0ZXNcUmVwb3J0ZU1hdHJpelJpZXNnb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/Reportes/ReporteSocialCliente.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVwb3J0ZXNcUmVwb3J0ZVNvY2lhbENsaWVudGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/ServiciosPublicos/ServiciosPublicosPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljaW9zUHVibGljb3NcU2VydmljaW9zUHVibGljb3NQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/TipoMaterial/TipoMaterialViviendaPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb01hdGVyaWFsXFRpcG9NYXRlcmlhbFZpdmllbmRhUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/TipoPropiedad/TipoPropiedadPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGlwb1Byb3BpZWRhZFxUaXBvUHJvcGllZGFkUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/TransferenciaPropia/TransferenciaPropiaPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNmZXJlbmNpYVByb3BpYVxUcmFuc2ZlcmVuY2lhUHJvcGlhUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/TransferenciaTerceros/TransferenciaTercerosPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNmZXJlbmNpYVRlcmNlcm9zXFRyYW5zZmVyZW5jaWFUZXJjZXJvc1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Pages/Zona/ZonaPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWm9uYVxab25hUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/FooterComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3RlckNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/HeadMenuComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRNZW51Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/HeadPageComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRQYWdlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/LogoComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ29Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/PaginaNoEncontradaPage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2luYU5vRW5jb250cmFkYVBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/SideMenuComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNpZGVNZW51Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7eug9g5c22
+
+[C:/Users/kbecker/Desktop/Proyectos/SARAS/SARASWEB.Frontend/SARASWEB.Frontend.Wasm/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-i98uophntg

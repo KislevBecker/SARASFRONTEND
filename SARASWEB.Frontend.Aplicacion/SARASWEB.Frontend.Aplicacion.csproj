@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SARASWEB.Frontend.PD\SARASWEB.Frontend.PD.csproj" />
+    <ProjectReference Include="..\SARASWEB.Frontend.Transversal\SARASWEB.Frontend.Transversal.csproj" />
+  </ItemGroup>
+
+</Project>

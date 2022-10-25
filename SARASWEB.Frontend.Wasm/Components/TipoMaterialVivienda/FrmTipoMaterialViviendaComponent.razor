@@ -1,0 +1,46 @@
+﻿@inject IHelper helper
+<div class="tab-pane @Wizard[0]" id="basictab1">
+    <div class="row">
+        <EditForm OnValidSubmit="Siguiente" Model="propiaFrmDTO">
+            <DataAnnotationsValidator />
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-floating mb-3">
+                        <InputNumber class="form-control" id="floatingInput" placeholder="Monto" @bind-Value="propiaFrmDTO.monto" maxlength="20" />
+                        <label for="floatingInput">Ingrese Nivel de riesgo</label>
+                        <div class="popular-color-error">
+                            <ValidationMessage For="@(() => propiaFrmDTO.monto)" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating mb-3">
+                        <InputText class="form-control" id="floatingInput" placeholder="Motivo" @bind-Value="propiaFrmDTO.motivo" maxlength="100" />
+                        <label for="floatingInput">Ingrese descripción de nivel educativo</label>
+                        <div class="popular-color-error">
+                            <ValidationMessage For="@(() => propiaFrmDTO.motivo)" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul class="list-inline wizard mb-0">
+
+                <li class="next list-inline-item float-end">
+                    <button type="submit" class="btn btn-warning popular-button-secondary">Siguiente</button>
+                </li>
+            </ul>
+
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [Parameter] public string[] Wizard { get; set; }
+
+    [Parameter] public PropiaFrmDTO propiaFrmDTO { get; set; }
+    [Parameter] public EventCallback Siguiente { get; set; }
+
+    [Parameter] public List<CuentasDTO> CuentasDTO { get; set; }
+
+}

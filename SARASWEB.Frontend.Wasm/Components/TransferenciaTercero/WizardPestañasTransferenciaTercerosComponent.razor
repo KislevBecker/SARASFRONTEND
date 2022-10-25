@@ -1,0 +1,27 @@
+﻿<ul class="nav nav-pills nav-justified form-wizard-header mb-4">
+    <li class="nav-item disabled-li @ErrorColor">
+        <a href="#basictab1" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2 @Wizard[0]">
+            <i class="mdi mdi-account-circle me-1"></i>
+            <span class="d-none d-sm-inline">Completar</span>
+        </a>
+    </li>
+    <li class="nav-item disabled-li @ErrorColor">
+        <a href="#basictab2" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2 @Wizard[1]">
+            <i class="mdi mdi-card-text-outline me-1"></i>
+            <span class="d-none d-sm-inline">Enviar</span>
+        </a>
+    </li>
+
+    <li class="nav-item disabled-li @ErrorColor">
+        <a href="#basictab3" data-bs-toggle="tab" data-toggle="tab" class="nav-link rounded-0 pt-2 pb-2 @Wizard[2]">
+            <i class="mdi mdi-checkbox-marked-circle-outline me-1"></i>
+            <span class="d-none d-sm-inline">Resumen</span>
+        </a>
+    </li>
+</ul>
+
+@code {
+    [Parameter] public string[] Wizard { get; set; }
+    [Parameter] public string ErrorColor { get; set; }
+
+}

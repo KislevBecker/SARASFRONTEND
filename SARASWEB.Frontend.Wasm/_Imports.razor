@@ -1,0 +1,44 @@
+﻿@using System.Net.Http
+@using System.Net.Http.Json
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components.Routing
+@using Microsoft.AspNetCore.Components.Web
+@using Microsoft.AspNetCore.Components.Web.Virtualization
+@using Microsoft.AspNetCore.Components.WebAssembly.Http
+@using Microsoft.JSInterop
+@using SARASWEB.Frontend
+@using SARASWEB.Frontend.Wasm.Shared
+@using SARASWEB.Frontend.Wasm.Pages
+@using SARASWEB.Frontend.Wasm.Components
+@using SARASWEB.Frontend.Wasm.Components.TransferenciaPropia
+@using SARASWEB.Frontend.Wasm.Components.TransferenciaTercero
+@using SARASWEB.Frontend.Wasm.Pages.TransferenciaPropia
+@using Blazored.Modal
+@using Blazored.Modal.Services
+@using SARASWEB.Frontend.Transversal.DTO
+@using SARASWEB.Frontend.Transversal.DTO.TransferenciasDTO
+@using SARASWEB.Frontend.Transversal.DTO.SeguridadDTO
+@using SARASWEB.Frontend.Transversal.DTO.RespuestaDTO
+@using SARASWEB.Frontend.Wasm.ExportExcel
+@using SARASWEB.Frontend.Transversal.DTO.ProductosDTO
+@using SARASWEB.Frontend.Aplicacion.ListasGeneralesAplicacion.BancosAplicacion
+@using SARASWEB.Frontend.Aplicacion.ListasGeneralesAplicacion.MonedasAplicacion
+@using SARASWEB.Frontend.Aplicacion.ListasGeneralesAplicacion.TipoCuentasAplicacion
+@using SARASWEB.Frontend.Aplicacion.ListasGeneralesAplicacion.TipoDocumentoAplicacion
+@using SARASWEB.Frontend.Controlador.TransferenciaPropiaControlador
+@using SARASWEB.Frontend.Transversal.Helpers
+@using SARASWEB.Frontend.Controlador.TransferenciaTercerosControlador
+@using SARASWEB.Frontend.PD.GenericaPersistenciaDatos
+@using SARASWEB.Frontend.Aplicacion.ListasGeneralesAplicacion
+@using SARASWEB.Frontend.Aplicacion.ProductosAplicacion
+
+
+@using System.Linq
+@using Microsoft.AspNetCore.Authorization
+@using System.Globalization
+@using Microsoft.Extensions.Configuration
+@using System.Web
+@using Microsoft.AspNetCore.Http
+@using BlazorPro.Spinkit
+
+

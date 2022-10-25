@@ -1,0 +1,57 @@
+﻿@inject IHelper helper
+<div class="tab-pane @Wizard[0]" id="basictab1">
+    <div class="row">
+        <EditForm OnValidSubmit="Siguiente" Model="TercerosFrmDTO">
+            <DataAnnotationsValidator />
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <select class="form-select" id="floatingSelect" aria-label="Floating label select example" @bind="TercerosFrmDTO.cuentaOrigen">
+                            <option selected disabled>Selecciona:</option>
+                            <option value="1">Pruebas</option>
+                            <option value="2">Pruebas2</option>
+                            @foreach (var cuenta in CuentasDTO)
+                            {
+                                <option value="@cuenta.cuenta">@cuenta.cuenta (@cuenta.moneda @(helper.FormateadorDecimales(cuenta.saldo)))</option>
+                            }
+                        </select>
+                        <label for="floatingSelect">Asignar nivel de riesgo</label>
+                        <div class="popular-color-error">
+                            <ValidationMessage For="@(() => TercerosFrmDTO.cuentaOrigen)" />
+                        </div>
+                    </div>
+                    <br />
+                </div>
+                <div class="col-md-6">
+                    <div class="form-floating mb-3">
+                        <InputText class="form-control" id="floatingInput" placeholder="Motivo" @bind-Value="TercerosFrmDTO.motivo" maxlength="100" />
+                        <label for="floatingInput">Ingrese nombre de categoría</label>
+                        <div class="popular-color-error">
+                            <ValidationMessage For="@(() => TercerosFrmDTO.motivo)" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul class="list-inline wizard mb-0">
+
+                <li class="next list-inline-item float-end">
+                    <button type="submit" class="btn btn-warning popular-button-secondary">Siguiente</button>
+                </li>
+            </ul>
+
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    [Parameter] public string[] Wizard { get; set; }
+
+    [Parameter] public TercerosFrmDTO TercerosFrmDTO { get; set; }
+    [Parameter] public EventCallback Siguiente { get; set; }
+    [Parameter] public bool mostrar { get; set; }
+    [Parameter] public bool agregar { get; set; }
+    [Parameter] public EventCallback validarTercero { get; set; }
+    [Parameter] public EventCallback MostrarFavorito { get; set; }
+    [Parameter] public List<CuentasDTO> CuentasDTO { get; set; }
+
+}

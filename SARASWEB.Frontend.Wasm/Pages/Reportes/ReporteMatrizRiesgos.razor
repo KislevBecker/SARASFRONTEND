@@ -1,0 +1,52 @@
+﻿@page "/matriz-de-riesgo-ambiental-social";
+@using SARASWEB.Frontend.Wasm.Components.MatrizRiesgoAmbientalSocial
+@*@inject ITransferenciaPropiaControlador controlador
+@inject IProductoAplicacion productoAplicacion*@
+@inject IJSRuntime JS
+@inject NavigationManager NavigationManager
+
+<div class="row">
+    <div class="col-12">
+        <div class="page-title-box">
+            <HeadPageComponent Titulo="SARAS" Categoria="Reportes" Pagina="Reporte matriz de riesgo ambiental social" />
+        </div>
+    </div>
+    <div class="card">
+        <div class="card-body">
+            <div id="progressbarwizard">
+                <FormularioMatrizRiesgos />
+                <TablaMatriz />
+                @*<Wizard Wizard="controlador.Wizard" ErrorColor="ErrorColor" />
+                <div class="tab-content b-0 mb-0">
+
+                    <WizardHeadTransferenciaPropiaComponent BarraPorcentaje="@controlador.BarraPorcentaje"
+                                                            MostrarLoader="controlador.MostrarLoader" />
+
+                    <FrmTransferenciaPropiaComponent Wizard="controlador.Wizard"
+                                                     propiaFrmDTO="propiaFrmDTO"
+                                                     CuentasDTO="cuentasDTO"
+                                                     Siguiente="ValidarTransferenciaPropia" />
+                    <EnviarTransferenciaComponent PropiaFrmDTO="propiaFrmDTO"
+                                                  Wizard="controlador.Wizard" />
+                    @if (Error)
+                    {
+                        <ErrorTransferenciaComponent confirmarTransferenciaDTO="confirmarTransferenciaDTO"
+                                                     Wizard="controlador.Wizard" />
+                    }
+                    else
+                    {
+                        <MensajeConfirmacionComponent confirmarTransferenciaDTO="confirmarTransferenciaDTO"
+                                                      Wizard="controlador.Wizard" />
+                    }
+                    <WizardBotonesTransferenciaPropiaComponent AtrasStep="controlador.AtrasStep"
+                                                               MostrarBotonesWizard="controlador.MostrarBotonesWizard"
+                                                               Siguiente="controlador.Siguiente" />
+                </div>*@
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+
+}

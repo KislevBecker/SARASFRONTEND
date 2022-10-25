@@ -1,0 +1,20 @@
+﻿<div id="bar" class="progress mb-3" style="height: 5px;">
+    <div class="bar progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: @(BarraPorcentaje);"></div>
+</div>
+@if (MostrarLoader)
+{
+    <div class="row">
+        <center>
+            <h4>Espera un momento por favor</h4>
+        </center>
+        <div class="progress">
+            <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%"></div>
+        </div>
+    </div>
+    <br />
+}
+
+@code {
+    [Parameter] public string BarraPorcentaje { get; set; }
+    [Parameter] public bool MostrarLoader { get; set; }
+}

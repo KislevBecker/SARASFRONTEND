@@ -1,0 +1,475 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj",
+        "projectName": "SARASWEB.Frontend.Aplicacion",
+        "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kbecker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\nugg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj"
+              },
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj",
+        "projectName": "SARASWEB.Frontend.Controlador",
+        "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj",
+        "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kbecker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\nugg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Blazored.SessionStorage": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj",
+        "projectName": "SARASWEB.Frontend.FuenteDatos",
+        "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj",
+        "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kbecker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\nugg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Blazored.SessionStorage": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj",
+        "projectName": "SARASWEB.Frontend.PD",
+        "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj",
+        "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kbecker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\nugg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj",
+        "projectName": "SARASWEB.Frontend.Transversal",
+        "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj",
+        "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kbecker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\nugg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Blazored.SessionStorage": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj",
+        "projectName": "SARASWEB.Frontend.Wasm",
+        "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj",
+        "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kbecker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\nugg": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj"
+              },
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj"
+              },
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj"
+              },
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj"
+              },
+              "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
+                "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BlazorPro.Spinkit": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Blazored.Modal": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Blazored.SessionStorage": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.Authorization": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.8, 6.0.8]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
