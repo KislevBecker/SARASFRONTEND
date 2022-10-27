@@ -1027,11 +1027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj",
       "projectName": "SARASWEB.Frontend.Aplicacion",
-      "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj",
+      "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj",
       "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\obj\\",
+      "outputPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1053,11 +1053,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj": {
-              "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj"
+            "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj": {
+              "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj"
             },
-            "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
-              "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj"
+            "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
+              "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj"
             }
           }
         }

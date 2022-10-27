@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uhn9v0JWhh10PgM0WhQYsywQCulo4+l3tqbLelQvsaGgHQiLJg/9XI8DdS3ySr2HZSyDyNTvDtHgIqA5qP7nNw==",
+  "dgSpecHash": "1hrV+SLZRluTxiaGiWsH1CH/Mm6FkdpRiuRDMCHaHgWwlbmIESQYSizv2+MZLZyYhKfk30ASreM3JWXzwxJHHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj",
+  "projectFilePath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kbecker\\.nuget\\packages\\blazorcomponentutilities\\1.6.0\\blazorcomponentutilities.1.6.0.nupkg.sha512",
     "C:\\Users\\kbecker\\.nuget\\packages\\blazored.modal\\7.1.0\\blazored.modal.7.1.0.nupkg.sha512",

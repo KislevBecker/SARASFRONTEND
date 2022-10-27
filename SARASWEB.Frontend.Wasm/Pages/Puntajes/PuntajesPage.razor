@@ -18,27 +18,27 @@
                 <div class="tab-content b-0 mb-0">
 
                     <WizardHeadPuntajeComponent BarraPorcentaje="@controlador.BarraPorcentaje"
-                                                            MostrarLoader="controlador.MostrarLoader" />
+                                                MostrarLoader="controlador.MostrarLoader" />
 
                     <FrmPuntajeComponent Wizard="controlador.Wizard"
-                                                     propiaFrmDTO="propiaFrmDTO"
-                                                     CuentasDTO="cuentasDTO"
-                                                     Siguiente="ValidarTransferenciaPropia" />
+                                         propiaFrmDTO="propiaFrmDTO"
+                                         CuentasDTO="cuentasDTO"
+                                         Siguiente="ValidarTransferenciaPropia" />
                     <EnviarPuntajeComponent PropiaFrmDTO="propiaFrmDTO"
-                                                  Wizard="controlador.Wizard" />
+                                            Wizard="controlador.Wizard" />
                     @if (Error)
                     {
                         <ErrorPuntajeComponent confirmarTransferenciaDTO="confirmarTransferenciaDTO"
-                                                     Wizard="controlador.Wizard" />
+                                           Wizard="controlador.Wizard" />
                     }
                     else
                     {
                         <MensajePuntajeComponent confirmarTransferenciaDTO="confirmarTransferenciaDTO"
-                                                      Wizard="controlador.Wizard" />
+                                             Wizard="controlador.Wizard" />
                     }
                     <WizardBotonesPuntajeComponent AtrasStep="controlador.AtrasStep"
-                                                               MostrarBotonesWizard="controlador.MostrarBotonesWizard"
-                                                               Siguiente="controlador.Siguiente" />
+                                                   MostrarBotonesWizard="controlador.MostrarBotonesWizard"
+                                                   Siguiente="controlador.Siguiente" />
                 </div>
                 <div class="tab-content b-0 mt-2 mb-0">
                     <TablaPuntaje />
@@ -97,9 +97,9 @@
         if (validador)
         {
             var cuenta = new CuentaObtenerInformacionDTO
-            {
-                Cuenta = propiaFrmDTO.cuentaOrigen
-            };
+                {
+                    Cuenta = propiaFrmDTO.cuentaOrigen
+                };
             var monedaCuenta = await productoAplicacion.ObtenerInformacionCuenta(cuenta);
             propiaFrmDTO.moneda = (monedaCuenta.Entidad.Moneda == "LPS") ? "L" : "$";
             EnAccion = false;

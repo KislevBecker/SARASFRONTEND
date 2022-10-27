@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj",
+      "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj",
       "projectName": "SARASWEB.Frontend.PD",
-      "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj",
+      "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj",
       "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\obj\\",
+      "outputPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.PD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1034,8 +1034,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj": {
-              "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj"
+            "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj": {
+              "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj"
             }
           }
         }

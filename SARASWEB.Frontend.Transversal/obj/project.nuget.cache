@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EjxOx7Z1VALQ9si/m2pETdSn0gKS6+tCIUB6BksPZTSQB4NkNjTNEJ5ToUzX5P1Hi/UjVxHCzW28BFafU5a77w==",
+  "dgSpecHash": "DqkOCUjX0PWjbKCvKXU1uYslTm87o4pszAW4LmbsPTuuRyw+wtyad2Vm4BrtULHxJ6Zm7ITnoGOa+o+LGl62ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj",
+  "projectFilePath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kbecker\\.nuget\\packages\\blazored.sessionstorage\\2.2.0\\blazored.sessionstorage.2.2.0.nupkg.sha512",
     "C:\\Users\\kbecker\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.14\\microsoft.aspnetcore.authorization.3.1.14.nupkg.sha512",

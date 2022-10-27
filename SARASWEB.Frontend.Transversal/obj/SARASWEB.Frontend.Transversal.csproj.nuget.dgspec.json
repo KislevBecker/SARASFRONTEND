@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {}
+    "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
+    "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj",
+        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj",
         "projectName": "SARASWEB.Frontend.Transversal",
-        "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj",
+        "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj",
         "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\obj\\",
+        "outputPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

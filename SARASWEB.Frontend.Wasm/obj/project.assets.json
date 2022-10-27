@@ -2775,11 +2775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj",
+      "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj",
       "projectName": "SARASWEB.Frontend.Wasm",
-      "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj",
+      "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Wasm\\SARASWEB.Frontend.Wasm.csproj",
       "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Wasm\\obj\\",
+      "outputPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Wasm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2801,20 +2801,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj"
+            "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Aplicacion\\SARASWEB.Frontend.Aplicacion.csproj"
             },
-            "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj": {
-              "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj"
+            "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj": {
+              "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj"
             },
-            "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj": {
-              "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj"
+            "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj": {
+              "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.FuenteDatos\\SARASWEB.Frontend.FuenteDatos.csproj"
             },
-            "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj": {
-              "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj"
+            "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj": {
+              "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.PD\\SARASWEB.Frontend.PD.csproj"
             },
-            "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
-              "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj"
+            "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj": {
+              "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Transversal\\SARASWEB.Frontend.Transversal.csproj"
             }
           }
         }

@@ -207,23 +207,23 @@
       "mscorlib.dll": "sha256-TYLzIm125RbnX9+RAPqJnwZhd6CnQpJcrjiMpJfZ720=",
       "netstandard.dll": "sha256-HhuK9zDkd1N7hODAEiNJ11VF8T54IgrM6hZfLHmHdqM=",
       "System.Private.CoreLib.dll": "sha256-dXaTqyg1PnXPiSwywpic1PVrd7P8Vb5tN0i0\/urdt3E=",
-      "SARASWEB.Frontend.Aplicacion.dll": "sha256-sK56z1xSmKWCNQ5ahTJIGmWMuZzmXxiO0gM0uGkwXBM=",
-      "SARASWEB.Frontend.Controlador.dll": "sha256-u4sFur\/O8YjRejJrvBmIHwPdfoSXq1f5hwuUNJDBKSc=",
-      "SARASWEB.Frontend.FuenteDatos.dll": "sha256-O0iOg88MnIUlPbXfvlp7ZmDZImckN6cVpcF1QqeWeFM=",
-      "SARASWEB.Frontend.PD.dll": "sha256-z\/0XW4ub+3t2Wvpp3q2INbNeiubRQ5YpsJYfxlo8zoI=",
-      "SARASWEB.Frontend.Transversal.dll": "sha256-I2TSBHnQI9iWTgsAk2ft8QTz2D3l2Kj7WggNnCPO7MI=",
-      "SARASWEB.Frontend.Wasm.dll": "sha256-q1Qv+8uBoL3YMwov0SNayS\/yUvUXsGaHuflcpS6jBYI="
+      "SARASWEB.Frontend.Aplicacion.dll": "sha256-WipJwXyflqJXQL4\/sd17875iVrcjNZBerifd9xF0SUo=",
+      "SARASWEB.Frontend.Controlador.dll": "sha256-3rVK6G0NOfLkQ6yqCRcXLLlT5VbQrkeZItvTsg06SfA=",
+      "SARASWEB.Frontend.FuenteDatos.dll": "sha256-gbeeN4pU4PqKQ2vL+EYZiViSMK94Ua2+uz0TsFePNxc=",
+      "SARASWEB.Frontend.PD.dll": "sha256-mF9XHNLx82aCDrlSEk8d8CDJnIZc1B5B3ffIv4E+c24=",
+      "SARASWEB.Frontend.Transversal.dll": "sha256-UVoJQiZP391tQLUqWyVyRckIJ3MszR6Z6qV3h9nuc+k=",
+      "SARASWEB.Frontend.Wasm.dll": "sha256-uIxQl4FbjytGw2N7OKJWRKUoh\/57Vun7FruDqBY8NLA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SARASWEB.Frontend.Aplicacion.pdb": "sha256-Cb6csKE2qtFMaALuyu0J8fjVkODzBt3CDCVZgaTrSAw=",
-      "SARASWEB.Frontend.Controlador.pdb": "sha256-O0s6TrcXMBS\/PI7fdTvcUIMZgdU7iw5510NUnvmmh80=",
-      "SARASWEB.Frontend.FuenteDatos.pdb": "sha256-uWPo\/XT27HEDWYdKv7FjCZW47AfBvCKYJjbqkj4bWfI=",
-      "SARASWEB.Frontend.PD.pdb": "sha256-W+JdIKj\/njVjRPlfS88yii8+s\/HSxYThHH5WeqFUpRM=",
-      "SARASWEB.Frontend.Transversal.pdb": "sha256-rHH3rD\/XWT4\/2wA8ZMEJQ9Az0Gm\/4pTSEDlJ\/DP94f0=",
-      "SARASWEB.Frontend.Wasm.pdb": "sha256-KUMhBkk77eJNhpDjWt1FRmDGie+bYviPl8FHiut90NU="
+      "SARASWEB.Frontend.Aplicacion.pdb": "sha256-7TzrpynbUolMU6a6L+lpVPsK8NMUXA\/HA8fwZt3lNUU=",
+      "SARASWEB.Frontend.Controlador.pdb": "sha256-vK4lXmRaykc9WzR8ryrgkDaO37qlBBrZ8Zz23UHw2f0=",
+      "SARASWEB.Frontend.FuenteDatos.pdb": "sha256-tfQDm+189HzkJ6a6Y24hXFLG8GxzDd9TuF0KXnvK0X0=",
+      "SARASWEB.Frontend.PD.pdb": "sha256-QSU0j3z1Dn7D8J6jD1MBErl\/PGm+gTtFxnUMznITY30=",
+      "SARASWEB.Frontend.Transversal.pdb": "sha256-7hfvLBO2JwXegrTVQbamByennPtPmAckjgU4+RvEk4Y=",
+      "SARASWEB.Frontend.Wasm.pdb": "sha256-supVbuLcJ03fV+iE8sQ5lG2dqc\/1yogzeytx78m1mA8="
     },
     "runtime": {
       "dotnet.6.0.8.2rwrzwwcsk.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",

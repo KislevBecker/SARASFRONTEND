@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj": {}
+    "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj": {
+    "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj",
+        "projectUniqueName": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj",
         "projectName": "SARASWEB.Frontend.Controlador",
-        "projectPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj",
+        "projectPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Controlador\\SARASWEB.Frontend.Controlador.csproj",
         "packagesPath": "C:\\Users\\kbecker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbecker\\Desktop\\Proyectos\\SARAS\\SARASWEB.Frontend\\SARASWEB.Frontend.Controlador\\obj\\",
+        "outputPath": "C:\\Users\\kbecker\\Desktop\\Frontend\\SARASWEB.Frontend.Controlador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
